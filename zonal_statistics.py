@@ -45,8 +45,8 @@ idx = vectorlayer.fieldNameIndex( 'tijdstip' )
 #step 2
 xpression = 'CASE WHEN "t01.tifmea" > 0.1 THEN ' + "'01:00:00'" + ' WHEN "t02.tifmea" > 0.1 THEN ' + "'02:00:00'" + ' WHEN "t03.tifmea" > 0.1 THEN ' + "'03:00:00'" + '\
                  WHEN "t04.tifmea" > 0.1 THEN ' + "'04:00:00'" + ' WHEN "t05.tifmea" > 0.1 THEN ' + "'05:00:00'" + ' WHEN "t06.tifmea" > 0.1 THEN ' + "'06:00:00'" + '\
-                 WHEN "t07.tifmea" > 0.1 THEN ' + "'12:00:00'" + ' WHEN "t08.tifmea" > 0.1 THEN ' + "'24:00:00'" + ' WHEN "t09.tifmea" > 0.1 THEN ' + "'36:00:00'" + '\
-                 WHEN "t10.tifmea" > 0.1 THEN ' + "'48:00:00'" + ' WHEN "t11.tifmea" > 0.1 THEN ' + "'60:00:00'" + ' WHEN "t12.tifmea" > 0.1 THEN ' + "'72:00:00'" + 'END'
+                 WHEN "t12.tifmea" > 0.1 THEN ' + "'12:00:00'" + ' WHEN "t24.tifmea" > 0.1 THEN ' + "'24:00:00'" + ' WHEN "t36.tifmea" > 0.1 THEN ' + "'36:00:00'" + '\
+                 WHEN "t48.tifmea" > 0.1 THEN ' + "'48:00:00'" + ' WHEN "t60.tifmea" > 0.1 THEN ' + "'60:00:00'" + ' WHEN "t72.tifmea" > 0.1 THEN ' + "'72:00:00'" + 'END'
 e = QgsExpression(xpression)
 e.prepare(vectorlayer.pendingFields() )
 

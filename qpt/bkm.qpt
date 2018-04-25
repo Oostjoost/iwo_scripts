@@ -1,0 +1,194 @@
+<Composer title="bkm" visible="1">
+ <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="" alignmentSnap="1" printResolution="300" paperWidth="210" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="1" generateWorldFile="0" paperHeight="297" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+  <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+   <layer pass="0" class="SimpleFill" locked="0">
+    <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="0,0,0,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+   </layer>
+  </symbol>
+  <ComposerLegend symbolWidth="3" title="" rasterBorderWidth="0" titleAlignment="1" map="0" wmsLegendWidth="50" rasterBorderColor="0,0,0,255" wrapChar="" fontColor="#000000" legendFilterByAtlas="1" columnCount="11" wmsLegendHeight="25" columnSpace="2" symbolHeight="3" equalColumnWidth="0" resizeToContents="1" splitLayer="1" boxSpace="0" rasterBorder="1">
+   <styles>
+    <style marginBottom="2" name="title">
+     <styleFont description="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" name="group">
+     <styleFont description="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" name="subgroup">
+     <styleFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style name="symbol">
+     <styleFont description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginLeft="2" name="symbolLabel">
+     <styleFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+   </styles>
+   <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+    <customproperties/>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="" name="(?)">
+     <customproperties>
+      <property key="legend/title-label" value=""/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="t0120180423084229227" source="C:/iwo/bkm/t01.tif" name="t01">
+     <customproperties>
+      <property key="legend/title-label" value=""/>
+     </customproperties>
+    </layer-tree-layer>
+   </layer-tree-group>
+   <ComposerItem pagey="288.356" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="108.219" y="288.356" visibility="1" zValue="12" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="98" outlineWidth="0.3" excludeFromExports="0" uuid="{ac48f4d6-8db5-4cd4-aedf-6732fa36f67c}" height="5" itemRotation="0" frame="false" pagex="108.219">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Waterdiepte (m)" htmlState="0" halign="1">
+   <LabelFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="288.63" page="1" id="Legenda" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="81.6141" y="288.63" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="24.6362" outlineWidth="0.3" excludeFromExports="0" uuid="{f3b1d2c4-14cf-40ef-a8d9-99e90fbbcea8}" height="4.72623" itemRotation="0" frame="false" pagex="81.6141">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLegend symbolWidth="6" title="" rasterBorderWidth="0" titleAlignment="1" map="0" wmsLegendWidth="50" rasterBorderColor="0,0,0,255" wrapChar="" fontColor="#000000" legendFilterByAtlas="0" columnCount="1" wmsLegendHeight="25" columnSpace="1" symbolHeight="7" equalColumnWidth="0" resizeToContents="1" splitLayer="0" boxSpace="0" rasterBorder="0">
+   <styles>
+    <style marginBottom="2" name="title">
+     <styleFont description="MS Shell Dlg 2,10,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" name="group">
+     <styleFont description="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" name="subgroup">
+     <styleFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style name="symbol">
+     <styleFont description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginLeft="2" name="symbolLabel">
+     <styleFont description="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+   </styles>
+   <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+    <customproperties/>
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="liander_t01_leidingen_kopie20180424140843841" source="dbname='postgres' host=localhost port=5432 user='postgres' sslmode=disable key='id' srid=28992 type=MultiLineString table=&quot;iwo&quot;.&quot;liander_leidingen&quot; (geom) sql=" name="liander_leidingen">
+     <customproperties>
+      <property key="legend/title-label" value="Netwerk liander"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="liander_t24_leidingen_kopie_kopie_kopie20180424141531980" source="dbname='postgres' host=localhost port=5432 user='postgres' sslmode=disable key='id' table=&quot;(SELECT ROW_NUMBER() OVER (ORDER BY l.id ASC) AS ROW_NUMBER, l.id, l.geom FROM iwo.bkm_liander_24 c &#xd;&#xa;LEFT JOIN iwo.liander_leidingen l ON ST_INTERSECTS(c.geom, l.geom) &#xa;)&quot; (geom) sql=" name="liander_t60_leidingen">
+     <customproperties>
+      <property key="legend/title-label" value="Uitgevallen netwerk"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="kwetsbare_objecten20180424134358559" source="dbname='postgres' host=localhost port=5432 user='postgres' sslmode=disable key='tid' srid=28992 type=Point table=&quot;iwo&quot;.&quot;kwetsbare_objecten&quot; (geom) sql=" name="kwetsbare_objecten">
+     <customproperties>
+      <property key="legend/title-label" value=""/>
+     </customproperties>
+    </layer-tree-layer>
+   </layer-tree-group>
+   <ComposerItem pagey="241.127" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="179.784" y="241.127" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="26.7" outlineWidth="0.8" excludeFromExports="0" uuid="{b7dc4819-1682-49e5-b31c-05b668365caa}" height="46" itemRotation="0" frame="false" pagex="179.784">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="72:00" htmlState="0" halign="1">
+   <LabelFont description="MS Shell Dlg 2,48,-1,5,50,0,0,0,0,0" style=""/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="1.65326" page="1" id="tijdstip" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="3.6932" y="1.65326" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.8275" outlineWidth="0.3" excludeFromExports="0" uuid="{32e62a3b-31c3-46f5-89ba-1f82d3e38379}" height="19.9873" itemRotation="0" frame="false" pagex="3.6932">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="5" segmentMillimeters="22.218" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="1000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="150" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
+   <scaleBarFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0" style=""/>
+   <fillColor alpha="255" red="0" blue="0" green="0"/>
+   <fillColor2 alpha="255" red="255" blue="255" green="255"/>
+   <strokeColor alpha="255" red="0" blue="0" green="0"/>
+   <textColor alpha="255" red="0" blue="0" green="0"/>
+   <ComposerItem pagey="275.969" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="61.6836" y="275.969" visibility="1" zValue="2" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="119.89" outlineWidth="0.3" excludeFromExports="0" uuid="{d5f34729-220d-446b-96bc-edaa437c82d2}" height="16.3878" itemRotation="0" frame="false" pagex="61.6836">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerScaleBar>
+  <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
+   <Extent ymin="504587.55876641429495066" xmin="106908.39492589326982852" ymax="517862.558779954793863" xmax="116223.39493539456452709"/>
+   <LayerSet/>
+   <Grid/>
+   <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{5e3631c7-0d18-4670-902d-88a92c2a5f3d}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Raster 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+    <lineStyle>
+     <symbol alpha="1" clip_to_extent="1" type="line" name="">
+      <layer pass="0" class="SimpleLine" locked="0">
+       <prop k="capstyle" v="square"/>
+       <prop k="customdash" v="5;2"/>
+       <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="customdash_unit" v="MM"/>
+       <prop k="draw_inside_polygon" v="0"/>
+       <prop k="joinstyle" v="bevel"/>
+       <prop k="line_color" v="0,0,0,255"/>
+       <prop k="line_style" v="solid"/>
+       <prop k="line_width" v="0"/>
+       <prop k="line_width_unit" v="MM"/>
+       <prop k="offset" v="0"/>
+       <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="offset_unit" v="MM"/>
+       <prop k="use_custom_dash" v="0"/>
+       <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+     </symbol>
+    </lineStyle>
+    <markerStyle>
+     <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+      <layer pass="0" class="SimpleMarker" locked="0">
+       <prop k="angle" v="0"/>
+       <prop k="color" v="0,0,0,255"/>
+       <prop k="horizontal_anchor_point" v="1"/>
+       <prop k="joinstyle" v="bevel"/>
+       <prop k="name" v="circle"/>
+       <prop k="offset" v="0,0"/>
+       <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="offset_unit" v="MM"/>
+       <prop k="outline_color" v="0,0,0,255"/>
+       <prop k="outline_style" v="solid"/>
+       <prop k="outline_width" v="0"/>
+       <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="outline_width_unit" v="MM"/>
+       <prop k="scale_method" v="diameter"/>
+       <prop k="size" v="2"/>
+       <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+       <prop k="size_unit" v="MM"/>
+       <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+     </symbol>
+    </markerStyle>
+    <annotationFontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+   </ComposerMapGrid>
+   <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+   <ComposerItem pagey="1" page="1" id="" lastValidViewScaleFactor="6.19292" positionMode="0" positionLock="false" x="1.5" y="1" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="207" outlineWidth="0.3" excludeFromExports="0" uuid="{96bf57da-0e4e-4c58-be49-976dddfc6a9e}" height="295" itemRotation="0" frame="false" pagex="1.5">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="0" blue="0" green="0"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerMap>
+  <customproperties>
+   <property key="imageCropMarginBottom" value="0"/>
+   <property key="imageCropMarginLeft" value="0"/>
+   <property key="imageCropMarginRight" value="0"/>
+   <property key="imageCropMarginTop" value="0"/>
+   <property key="imageCropToContents" value="false"/>
+  </customproperties>
+ </Composition>
+</Composer>
